@@ -98,7 +98,4 @@ Feel free to fork this repo and submit pull requests. For major changes, open an
 
 ---
 
-## 📬 Contact
-
-For any queries or collaboration opportunities, reach out at [your.email@example.com].
 
